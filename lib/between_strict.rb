@@ -1,4 +1,4 @@
-def between_strict(num1, num2, num3)
-    return true if (num1 > num2 || num1 > num3) && (num1 < num3 || num1 < num2)
+def between_strict(num, num1, num2)
+    return true if (num > num1 || num > num2) && (num < num2 || num < num1)
     return false
 end

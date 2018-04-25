@@ -1,4 +1,4 @@
-# Public: Calculate the value of all numbers up to and including the input value.
+# Public: Calculate the value of all numbers from zero up to and including the input value.
 #
 # num - The Integer from which the value is calculated.
 #

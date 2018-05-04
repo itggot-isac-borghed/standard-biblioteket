@@ -11,7 +11,7 @@
 def dup(array)
     output = []
     i = 0
-    while i < array.lenght
+    while i < array.length
         output << array[i]
         i += 1
     end

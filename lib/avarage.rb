@@ -8,7 +8,7 @@
 #   # => 2
 #
 # Returns the avarage value of the array.
-require_relative 'sum'
+require_relative 'lib'
 def avarage(array)
     output sum(array)/array.length
 end

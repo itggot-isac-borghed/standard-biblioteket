@@ -9,7 +9,7 @@
 #   # => [1,2,3,4]
 #
 # Returns a new array with the values of the concatinated arrays.
-require_relative 'dup'
+require_relative 'lib'
 def concat(array1, array2)
     output = []
     i = 0
